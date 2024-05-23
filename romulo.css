@@ -1,0 +1,59 @@
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+body {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+    sans-serif;
+    line-height: 1.6;
+    }
+    .place {
+        border-color: #f80000 #ff0000 #ff0000 #ff0000;
+        border: 1px solid #ff0000;
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+        .place h2 {
+            border-bottom: 1px dashed #ffffff;
+            margin: 0;
+            }
+            body {
+                background: hsl(112, 19%, 58%) url(images/noise.png);
+                font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+                sans-serif;
+                line-height: 1.6;
+                }
+                .place {
+                    background-color: #FFF;
+                    border: 1px solid #CCC;
+                    border-color: #CCC #999 #999 #CCC;
+                    margin-bottom: 20px;
+                    padding: 10px;
+                    }
+                    .place a {
+                        color: #2C88A7;
+                        font-weight: bold;
+                        }
+                        .sidenote {
+                            background-color: #FFFBE4;
+                            border: 1px solid #C9BC8F;
+                            padding: 10px;
+                            }
+                            .sidenote h3 {
+                            font-size: 14px;
+                            margin-top: 0;
+                            }
+                            .sidenote ol {
+                            font-size: 12px;
+                            }
+                            .places {
+                                float: left;
+                                width: 660px;
+                                }
+                                .sidenote {
+                                    background-color: #FFFBE4;
+                                    border: 1px solid #C9BC8F;
+                                    float: right;
+                                    padding: 10px;
+                                    width: 260px;
+                                    }
